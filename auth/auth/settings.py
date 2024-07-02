@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-kp$^#31j@4hde74_vu!0e10ndm*1x(f8szo6qq=0r=nqg+l)4k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nfc.businesscard.createdinam.com']
 
 
 # Application definition
